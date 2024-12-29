@@ -1,4 +1,4 @@
-# 4369-programming-for-data-analytics
+# Programming for Data Analytics
 **by Joseph Benkanoun**
 
 ![Programming for Data Analytics](Project/programming-data-analytics.jpg)
