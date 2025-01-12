@@ -7,7 +7,9 @@ Repository for the 2024 [Programming for Data Analytics](https://www.atu.ie/cour
 
 This module comprised of two components: a series of assignments and a core project.
 
-## Assignments
+## [Assignments](https://github.com/JBnkn/4369-programming-for-data-analytics/tree/main/Assignments)
+
+Further detail on the work I did for each assignment can be found in the corresponding Jupyter Notebook, which I have linked to below.
 
 ### Assignment 2 - [Weather](https://github.com/JBnkn/4369-programming-for-data-analytics/blob/main/Assignments/assignment2-weather.ipynb)
 > Create a plot showing temperature over time.
@@ -27,5 +29,6 @@ The brief provided for the core project was:
 
 > Write a notebook that demonstrates what you have learned in the Module, if you can not think of an area you wish to explore, then create a project that analyses windspeed for windfarms.
 
+As I have an interest is public transport, library-type sharing systems, and the movement towards better utilisation of public service data, I have decided to interrogate some of the freely available data for the [Dublinbikes](https://www.dublinbikes.ie/) bike-sharing scheme.
 
 
