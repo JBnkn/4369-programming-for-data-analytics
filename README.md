@@ -31,4 +31,15 @@ The brief provided for the core project was:
 
 As I have an interest is public transport, library-type sharing systems, and the movement towards better utilisation of public service data, I have decided to interrogate some of the freely available data for the [Dublinbikes](https://www.dublinbikes.ie/) bike-sharing scheme.
 
+### Modules
+
+Modules used in the course of this project were:
+
+- [Pandas](https://pandas.pydata.org/docs/index.html) for data manipulation
+- [Matplotlib](https://matplotlib.org/) for plotting, tick formatting, and creating GIFs
+- [Seaborn](https://seaborn.pydata.org/) for visualisations
+- [Folium](https://python-visualization.github.io/folium/latest/#) for mapping
+- [Datetime](https://docs.python.org/3/library/datetime.html) for datetime manipulation
+
+
 
