@@ -55,7 +55,7 @@ In this project, I explored and analysed data from to Dublin's bike-sharing syst
 
 Key aspects of the project include:
 - Analyzing bike station data and identifying peak usage times.
-- Visualizing data on a map to illustrate bike station locations and performance.
+- Visualising data on a map to illustrate bike station locations and performance.
 - Leveraging time-series analysis to explore patterns in bike availability and demand.
 
 ### Modules Used
