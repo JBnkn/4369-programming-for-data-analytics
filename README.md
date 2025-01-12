@@ -31,6 +31,15 @@ The brief provided for the core project was:
 
 As I have an interest is public transport, library-type sharing systems, and the movement towards better utilisation of public service data, I have decided to interrogate some of the freely available data for the [Dublinbikes](https://www.dublinbikes.ie/) bike-sharing scheme.
 
+### Project Overview
+In this project, I explored and analysed data from to Dublin's bike-sharing system, DublinBikes, to uncover insights about bike station usage, peak times, and station performance. This project demonstrates how data analytics techniques can be applied to real-world public service data to enhance transportation efficiency.
+
+Key aspects of the project included:
+- Analysing bike station data and geographic distribution
+- Identifying peak usage times based on time of day, and day of week
+- Visualising map-based data on a map to illustrate bike station locations
+- Leveraging time-series analysis to explore patterns in bike availability and demand
+
 ### Modules
 
 Modules used in the course of this project were:
@@ -41,5 +50,22 @@ Modules used in the course of this project were:
 - [Folium](https://python-visualization.github.io/folium/latest/#) for mapping
 - [Datetime](https://docs.python.org/3/library/datetime.html) for datetime manipulation
 
+### Project Overview
+In this project, I explored and analysed data from to Dublin's bike-sharing system, DublinBikes, to uncover insights about bike station usage, peak times, and station performance. This project demonstrates how data analytics techniques can be applied to real-world public service data to enhance transportation efficiency.
 
+Key aspects of the project include:
+- Analyzing bike station data and identifying peak usage times.
+- Visualizing data on a map to illustrate bike station locations and performance.
+- Leveraging time-series analysis to explore patterns in bike availability and demand.
 
+### Modules Used
+
+Modules used in the course of this project were:
+
+- [Pandas](https://pandas.pydata.org/docs/index.html) for data manipulation
+- [Matplotlib](https://matplotlib.org/) for plotting, tick formatting, and creating GIFs
+- [Seaborn](https://seaborn.pydata.org/) for visualizations
+- [Folium](https://python-visualization.github.io/folium/latest/#) for mapping
+- [Datetime](https://docs.python.org/3/library/datetime.html) for datetime manipulation
+
+You can explore the full project in the [DublinBikes Project Notebook](https://github.com/JBnkn/4369-programming-for-data-analytics/blob/main/Project/Dublinbikes%20Project.ipynb).
